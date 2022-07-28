@@ -1,0 +1,11 @@
+
+/*bannar slider*/
+.carousel-item img{
+width: 1500px;
+height: 600px;
+}
+.carousel-caption{
+    bottom:180px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
